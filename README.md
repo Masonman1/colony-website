@@ -1,2 +1,3 @@
-# colony-website
-Static website for Colony Building Solutions, L.L.C. (colonybuildingsolutions.net)
+# Colony Building Solutions website
+
+Static site for colonybuildingsolutions.net, deployed with Cloudflare Pages (no build step, output directory `/`).
